@@ -2,8 +2,10 @@
 title: Dong Liang's CV 
 description: ddbullfrog's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+url: https://resumejameel.github.io/resumecard
+#baseurl: https://ddbullfrog.github.io/resumecard
+baseurl: "/"
+#url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
